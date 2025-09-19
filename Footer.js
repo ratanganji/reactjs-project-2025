@@ -1,1 +1,1 @@
-
+let footer = "Footer"
